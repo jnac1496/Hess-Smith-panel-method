@@ -1,2 +1,2 @@
 # Hess-Smith-panel-method
-Matlab script to analyze 2D airfoils (single, tandem and ground effect)
+Matlab script to analyze 2D NACA series 4 airfoils in single and tandem configuration, with the option of including ground effect.
